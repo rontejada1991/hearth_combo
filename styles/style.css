@@ -19,6 +19,13 @@ html {
 	padding-bottom: 10px;
 	color: #e4e4e4;
 	text-shadow: 3px 3px 1px black;
+    /* For very small phone screens */
+    word-wrap: break-word;
+ 	-webkit-hyphens: auto;
+ 	-moz-hyphens: auto;
+ 	-ms-hyphens: auto;
+ 	-o-hyphens: auto;
+ 	hyphens: auto;
 }
 
 h2 {
