@@ -26,6 +26,7 @@ html {
  	-ms-hyphens: auto;
  	-o-hyphens: auto;
  	hyphens: auto;
+ 	clear: right;
 }
 
 h2 {
