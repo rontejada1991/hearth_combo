@@ -1,0 +1,26 @@
+My website is about Hearthstone combos
+
+HearthCombo
+
+Here at HearthCombo's, we focus on the video game Hearthstone, designed by Blizzard Entertainment.
+Our target audience are those that are already familiar with game and play either casually or competitively.
+The main focus of our site will be on the synergy between two or more cards at a time.
+We will explain what is needed for the interaction to be pulled off, how it is done, and how effective it is.
+Do note that not all combos we discuss will be competitive, but we hope to strike a nice balance between the
+effective and the highly situational.
+
+Some combos are more clear cut than others, they will be straight forward and not much will need to be said.
+In these instances, we will try to cover as much as possible by using different catalysts. A simple example,
+is Chromaggus, an 8 mana minion that has the ability to add a copy of any card you draw. Naturally, we would
+look into any cards that cost 2 or less mana and that let us draw a card on the turn that Chromaggus is played.
+Chromaggus + Rogue's Shiv would work, so would Chromaggus + Warlock's Mortal Coil + A minion already in play with 1 Health.
+
+
+light grey background color 
+gold and blue font
+cartoony font color
+bold and loud
+
+<link href='https://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+
+font-family: 'Shadows Into Light', cursive;
