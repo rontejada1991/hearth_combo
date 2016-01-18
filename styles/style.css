@@ -16,7 +16,7 @@ h1 {
 	font-size: 60px;
 	text-align: center;
 	margin: 0;
-	padding: 20px 0;
+	padding-bottom: 10px;
 	color: #e4e4e4;
 	text-shadow: 3px 3px 1px black;
 	clear: right;
@@ -41,10 +41,12 @@ img {
 	width: 78%;
 	display: block;
 	margin: 0 auto;
+	padding-bottom: 10px;
 }
 
 button {
 	float: right;
+	margin-bottom: 10px;
 }
 
 .container {
